@@ -47,5 +47,5 @@
 ### 🧮 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedJaberAhmed&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedJaberAhmed&theme=react-dark" alt="Ahmed Jaber's GitHub Contribution Graph"/>
 </p>
