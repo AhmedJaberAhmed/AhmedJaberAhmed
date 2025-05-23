@@ -1,16 +1,16 @@
-<h1 align="center" style="color:#00c8ff;">Hey, I'm Ahmed Jaber 👋</h1>
+<h1 align="center" style="color:#00c8ff;">Hey, I'm Ahmed Jaber </h1>
 
 <p align="center">
   <b style="font-size: 1.2em;">Mobile App Developer</b> | <b>Flutter & Android Specialist</b> | <b>Clean Code Advocate</b><br>
   Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022–2026).<br>
   <a href="https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdqeC4kgx4/view?usp=sharing">
-    <b style="color:#ff69b4;">📄 View My Resume</b>
+    <b style="color:#ff69b4;"> View My Resume</b>
   </a>
 </p>
 
 ---
 
-### 🚀 Tech Stack & Platforms
+###  Tech Stack & Platforms
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" style="margin: 0 10px"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📬 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://github.com/AhmedJaberAhmed">
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedJaberAhmed&show_icons=true&theme=radical&hide=issues" width="45%"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedJaberAhmed&theme=gruvbox" width="90%"/>
@@ -61,22 +61,3 @@
 
 ---
 
-### 📝 Projects
-
-- [Project 1](https://github.com/AhmedJaberAhmed/project1) - Description of the first project.
-- [Project 2](https://github.com/AhmedJaberAhmed/project2) - Description of the second project.
-- [Project 3](https://github.com/AhmedJaberAhmed/project3) - Description of the third project.
-
----
-
-### 🔥 Contribution & Impact
-
-<p align="center">
-  <a href="https://github.com/AhmedJaberAhmed/">
-    <img src="https://komarev.com/ghpvc/?username=AhmedJaberAhmed&style=flat-square&color=blue" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedJaberAhmed&bg_color=333333&color=00c8ff&line=ff5e5e&point=ffffff" />
-</p>
