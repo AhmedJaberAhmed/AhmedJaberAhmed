@@ -16,9 +16,6 @@
   <img src="https://img.icons8.com/color/48/android-studio--v3.png" title="Android Studio"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
