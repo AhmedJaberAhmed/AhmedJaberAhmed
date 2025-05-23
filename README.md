@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Ahmed%20Jaber%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:00FFFF,100:000000&fontColor=00FFFF&fontSize=60&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m%20Ahmed%20Jaber%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:00FFFF,100:000000&fontColor=FFFFFF&fontShadow=true)
 
 I'm a passionate **Mobile App Developer | Flutter & Android Specialist | Clean Code Advocate**.  
 Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022-2026).  
@@ -17,15 +17,15 @@ Check out my [resume](https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdq
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/your-github-username)  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-jaber-ahmed-779360258)  
-[![Google Developer Badges](https://img.shields.io/badge/Google-Developer-cyan?logo=google&style=flat-square&color=00FFFF)](https://g.dev/Ahmed_Jaber)
+[![Google Developer Badges](https://img.shields.io/badge/Google-Developer-blue?logo=google)](https://g.dev/Ahmed_Jaber)
 
 ---
 
 ### 📊 GitHub Stats
- 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&text_color=00FFFF&bg_color=000000)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react&area=true&hide_border=true&color=00FFFF&bg_color=000000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&area=true&hide_border=true)
+
