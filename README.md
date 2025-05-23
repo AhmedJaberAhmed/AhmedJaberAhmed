@@ -11,20 +11,22 @@
 ### 🚀 Technical Skills & Platforms
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
   <img src="https://img.icons8.com/color/48/kotlin.png" title="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/android-studio--v3.png" title="Android Studio"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/json.png" title="REST APIs"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" title="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/gradle.png" title="Gradle"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/postman.png" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
+  <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
 </p>
 
 ---
