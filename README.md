@@ -3,7 +3,7 @@
 <p align="center">
   <b style="font-size: 1.2em;">Mobile App Developer</b> | <b>Flutter & Android Specialist</b> | <b>Clean Code Advocate</b><br>
   Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022–2026).<br>
-  <a href="https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdqeC4kgx4/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1nAKURpyVgdSHFpoNgvoC1ELzEZwkH5xO/view?usp=sharing">
     <b style="color:#ff69b4;"> View My Resume</b>
   </a>
 </p>
@@ -68,6 +68,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedJaberAhmed&theme=gruvbox" width="90%"/>
 </p>
-
----
-
