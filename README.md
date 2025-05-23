@@ -1,107 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ahmed Jaber</h1>
-<h3 align="center">Mobile App Developer | Flutter & Android Specialist | Clean Code Advocate</h3>
+ <div align='center'>
 
-<p align="center">
-  <a href="tel:+201090132799">📞 01090132799</a> • 
-  <a href="mailto:fgh377373hc@gmail.com">📧 fgh377373hc@gmail.com</a> • 
-  <a href="https://github.com/ahmedjaber99" target="_blank">GitHub</a> • 
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> • 
-  <a href="https://developers.google.com/profile/your-profile-id" target="_blank">Google Developer Badges</a>
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20[Your Name]!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:FF0000&fontColor=ffffff)
+
+</div>
+
+<p align='center'>
+  I'm a passionate [Your Role or Study Program] at [Your University or Workplace]. Skilled in [Your Key Skills], and currently exploring [Your Current Focus].  
+  Check out my <a href="[Your Resume or Portfolio Link]">resume</a> to learn more.
 </p>
 
----
+<div align='center'>
+  <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=[comma-separated skills, e.g., kotlin,java,flutter,dart,js]" />
+  </a>
+</div>
 
-### 👨‍💻 Professional Summary
+<div align='center'>
+  <h2> 💬 Get in touch 💬 </h2>
+  <a href="[Your Twitter or X URL]">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="[Your LinkedIn URL]">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[Your Instagram URL]">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</div>
 
-Ambitious and technically skilled Mobile Application Developer with deep expertise in **Flutter** and native **Android** (Java/Kotlin) development. Experienced in building scalable, responsive, and high-performance apps with seamless backend integrations. Specialized in asynchronous programming, live data streaming, multithreading, and clean architecture patterns. Known for delivering exceptional user experiences and solving complex technical challenges through data-driven development.
+<br>
 
----
-
-### 💻 Technical Skills
-
-- **Languages & Frameworks**: Dart, Java, Kotlin, C++, Flutter, XML  
-- **Asynchronous Programming**: Async/Await, Streams (Live Data), Coroutines, Multithreading  
-- **State Management & Architecture**: Bloc, Cubit, Provider, MVC, MVP, MVVM, Repository Pattern  
-- **Backend & APIs**: Firebase (Firestore, Auth, Storage), Supabase, REST APIs, Retrofit, Dio  
-- **Databases**: SQLite, Isar, SQL, sqflite (Local DB)  
-- **Tools & Concepts**: Git, Android Studio, VS Code, Agile Development, Data Structures, Problem Solving  
-- **UI/UX**: Responsive UI, Material Design, Payment Integration (Stripe, PayPal)
-
----
-
-### 🚀 Projects
-
-#### 🛒 E-Commerce App (Flutter)
-**Role**: Flutter Developer  
-- Developed a complete online shopping solution with user authentication, real-time product search, cart/wishlist features, and Stripe/PayPal integration.  
-- **Impact**: Reduced checkout time by 35%.
-
-#### 🎬 Movie Browser App (Flutter)
-**Role**: Frontend Flutter Developer  
-- Sleek and responsive app to explore, search, and view movie details.  
-- **Impact**: Achieved 4.8★ internal rating for speed and design.
-
-#### ✅ Task Manager App – SQLite Version
-**Role**: Flutter Developer  
-- Persistent task management tool using SQLite.  
-- **Impact**: 100% offline functionality and smooth UX.
-
-#### ⚡ Task Manager App – Isar Version
-**Role**: Mobile App Developer  
-- Rebuilt with Isar database to improve performance.  
-- **Impact**: +50% DB performance compared to SQLite.
-
-#### 🧑‍💼 Admin Dashboard App
-**Role**: Full-Stack Flutter Developer  
-- Admin portal to manage users, content, and stats using Bloc and Provider.  
-- **Impact**: Streamlined admin operations.
-
-#### 🍔 Foddy App (Android – Java)
-**Role**: Android Developer  
-- Full-stack food delivery app with Firebase and Maps API.  
-- **Impact**: Real-time order tracking and optimized delivery routes.
-
----
-
-### 🎓 Education
-
-**B.Sc. in Computer Science & Artificial Intelligence**  
-Modern University for Technology & Information (MTI), Cairo  
-2022 – 2026 *(Expected)*
-
-**Flutter Diploma – Amit Learning**  
-Hands-on training in mobile app development with Flutter.
-
-**Digital Egypt Pioneers Initiative (DEPI)**  
-Ministry of Communications and Information Technology
-
----
-
-### 📜 Certifications
-
-- Digital Egypt Pioneers Program (MCIT) – 2024  
-- Berlitz Business English Certification – 2024  
-- Java Certification – HackerRank – 2024  
-- Mobile Development Courses – Udemy *(Ongoing)*
-
----
-
-### 🧠 Soft Skills
-
-- Communication & Teamwork  
-- Critical Thinking & Problem Solving  
-- Adaptability & Time Management  
-- Analytical & Creative Thinking  
-
----
-
-### 🌐 Languages
-
-- English: Fluent  
-- Arabic: Native
-
----
-
-### 🏅 Certificates & Portfolio
-
-**📂 [View My Certificates](https://link-to-certificates-or-portfolio.com)**  
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&theme=tokyonight&show_icons=true&locale=en&layout=compact&disable_animations=false&hide_border=true" height="150" alt="top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-github-username]&radius=16&theme=tokyo-night&area=true&hide_border=true&hide_title=false" height="300" alt="activity graph" />
+</div>
