@@ -1,38 +1,28 @@
- <div align='center'>
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Ahmed%20Jaber%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:FF0000&fontColor=ffffff)
 
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20[Your Name]!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:FF0000&fontColor=ffffff)
+I'm a passionate **Mobile App Developer | Flutter & Android Specialist | Clean Code Advocate**.  
+Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022-2026).  
+Skilled in Dart, Java, Kotlin, C++, Flutter, and experienced in clean architecture, asynchronous programming, and responsive UI design.  
+Check out my [resume](https://drive.google.com/drive/folders/1UgCDKCRCv2q2kt1WtcXyH69OnvWwfei0?usp=sharing) to learn more.
 
-</div>
+---
 
-<p align='center'>
-  I'm a passionate [Your Role or Study Program] at [Your University or Workplace]. Skilled in [Your Key Skills], and currently exploring [Your Current Focus].  
-  Check out my <a href="[Your Resume or Portfolio Link]">resume</a> to learn more.
-</p>
+### 👨‍💻 Technical Skills & Platforms 👩‍💻
 
-<div align='center'>
-  <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
-  <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=[comma-separated skills, e.g., kotlin,java,flutter,dart,js]" />
-  </a>
-</div>
+![Skills](https://skillicons.dev/icons?i=dart,java,kotlin,flutter,androidstudio,git,github,firebase,sqlite,postgres,nodejs,express,figma)
 
-<div align='center'>
-  <h2> 💬 Get in touch 💬 </h2>
-  <a href="[Your Twitter or X URL]">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="[Your LinkedIn URL]">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="[Your Instagram URL]">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</div>
+---
 
-<br>
+### 💬 Get in touch 💬
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&theme=tokyonight&show_icons=true&locale=en&layout=compact&disable_animations=false&hide_border=true" height="150" alt="top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-github-username]&radius=16&theme=tokyo-night&area=true&hide_border=true&hide_title=false" height="300" alt="activity graph" />
-</div>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/your-github-username)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-linkedin)  
+[![Google Developer Badges](https://img.shields.io/badge/Google-Developer-blue?logo=google)](https://your-google-developer-profile)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)
