@@ -3,7 +3,9 @@
 <p align="center">
   <b>Mobile App Developer</b> | <b>Flutter & Android Specialist</b> | <b>Clean Code Advocate</b><br>
   Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022–2026).<br>
-  <a href="https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdqeC4kgx4/view?usp=sharing"><b>📄 View My Resume</b></a>
+  <a href="https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdqeC4kgx4/view?usp=sharing">
+    <b>📄 View My Resume</b>
+  </a>
 </p>
 
 ---
@@ -26,12 +28,18 @@
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/AhmedJaberAhmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-jaber-ahmed-779360258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://g.dev/Ahmed_Jaber"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://github.com/AhmedJaberAhmed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-jaber-ahmed-779360258">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://g.dev/Ahmed_Jaber">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -49,4 +57,26 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedJaberAhmed&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+### 📝 Projects
+
+- [Project 1](https://github.com/AhmedJaberAhmed/project1) - Description of the first project.
+- [Project 2](https://github.com/AhmedJaberAhmed/project2) - Description of the second project.
+- [Project 3](https://github.com/AhmedJaberAhmed/project3) - Description of the third project.
+
+---
+
+### 📈 Contribution & Impact
+
+<p align="center">
+  <a href="https://github.com/AhmedJaberAhmed/">
+    <img src="https://komarev.com/ghpvc/?username=AhmedJaberAhmed&style=flat-square&color=blue" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedJaberAhmed&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff" />
 </p>
