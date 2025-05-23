@@ -23,6 +23,6 @@ Check out my [resume](https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdq
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)
