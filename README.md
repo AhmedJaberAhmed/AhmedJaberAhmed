@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m%20Ahmed%20Jaber%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:121212&fontColor=FFFFFF&fontShadow=true)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%27m%20Ahmed%20Jaber!&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:121212&fontColor=FFFFFF&fontShadow=true)
 
 I'm a passionate **Mobile App Developer | Flutter & Android Specialist | Clean Code Advocate**.  
 Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022-2026).  
