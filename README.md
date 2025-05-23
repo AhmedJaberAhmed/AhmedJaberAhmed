@@ -22,7 +22,10 @@ Check out my [resume](https://drive.google.com/file/d/1k--6o7V_AcEBTo4xrZSr0cNdq
 ---
 
 ### 📊 GitHub Stats
+ 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&text_color=00FFFF&bg_color=000000)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react&area=true&hide_border=true&color=00FFFF&bg_color=000000)
