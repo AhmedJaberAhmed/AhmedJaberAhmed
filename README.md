@@ -8,6 +8,16 @@
   </a>
 </p>
 
+<p>
+  Mobile Application Developer with a strong foundation in Flutter and native Android (Java/Kotlin) development. Currently pursuing a B.Sc. in Computer Science & Artificial Intelligence at Modern University for Technology & Information (MTI), Cairo (2022-2026). Skilled in building scalable, high-performance apps with seamless backend integrations. Expertise in asynchronous programming, live data streaming, multithreading, and clean architecture patterns. Passionate about delivering exceptional user experiences and solving complex technical challenges through data-driven development.
+</p>
+
+<p><b>Certifications & Training:</b></p>
+<ul>
+  <li>Flutter Diploma – Amit Learning (Hands-on training in mobile app development and best practices using Flutter)</li>
+  <li>Digital Egypt Pioneers Initiative (DEPI) – Ministry of Communications and Information Technology</li>
+</ul>
+
 ---
 
 ###  Tech Stack & Platforms
