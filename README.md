@@ -1,26 +1,34 @@
 <h1 align="center" style="color:#00c8ff;">Hey, I'm Ahmed Jaber </h1>
 
 <p align="center">
-  <b style="font-size: 1.2em;">Mobile App Developer</b> | <b>Flutter & Android Specialist</b> | <b>Clean Code Advocate</b><br>
-  Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022–2026).<br>
+  <b style="font-size: 1.2em; color:#ffffff;">Mobile App Developer</b> | 
+  <b style="color:#ffffff;">Flutter & Android Specialist</b> | 
+  <b style="color:#ffffff;">Clean Code Advocate</b><br>
+  <span style="color:#bbbbbb;">Currently pursuing B.Sc. in Computer Science & AI at MTI, Cairo University (2022–2026).</span><br>
   <a href="https://drive.google.com/file/d/1nAKURpyVgdSHFpoNgvoC1ELzEZwkH5xO/view?usp=sharing">
-    <b style="color:#ff69b4;"> View My Resume</b>
+    <b style="color:#ff69b4;">📄 View My Resume</b>
   </a>
 </p>
 
-<p>
-  Mobile Application Developer with a strong foundation in Flutter and native Android (Java/Kotlin) development. Currently pursuing a B.Sc. in Computer Science & Artificial Intelligence at Modern University for Technology & Information (MTI), Cairo (2022-2026). Skilled in building scalable, high-performance apps with seamless backend integrations. Expertise in asynchronous programming, live data streaming, multithreading, and clean architecture patterns. Passionate about delivering exceptional user experiences and solving complex technical challenges through data-driven development.
+<p style="color:#dddddd;">
+  🚀 Mobile Application Developer with a strong foundation in Flutter and native Android (Java/Kotlin) development. 
+  Skilled in building scalable, high-performance apps with seamless backend integrations. 
+  Expertise in asynchronous programming, live data streaming, multithreading, and clean architecture patterns. 
+  Passionate about delivering exceptional user experiences and solving complex technical challenges through data-driven development.
 </p>
 
-<p><b>Certifications & Training:</b></p>
-<ul>
-  <li>Flutter Diploma – Amit Learning (Hands-on training in mobile app development and best practices using Flutter)</li>
-  <li>Digital Egypt Pioneers Initiative (DEPI) – Ministry of Communications and Information Technology</li>
+---
+
+### 🏆 Certifications & Training
+
+<ul style="color:#dddddd;">
+  <li>🎓 Flutter Diploma – Amit Learning (Hands-on training in mobile app development and best practices using Flutter)</li>
+  <li>🎓 Digital Egypt Pioneers Initiative (DEPI) – Ministry of Communications and Information Technology</li>
 </ul>
 
 ---
 
-###  Tech Stack & Platforms
+### 🛠️ Tech Stack & Platforms
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" style="margin: 0 10px"/>
@@ -38,7 +46,7 @@
 
 ---
 
-###  Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/AhmedJaberAhmed">
@@ -54,7 +62,7 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedJaberAhmed&show_icons=true&theme=radical&hide=issues" width="45%"/>
@@ -63,7 +71,7 @@
 
 ---
 
-###  Contribution Graph
+### 🌐 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedJaberAhmed&theme=gruvbox" width="90%"/>
