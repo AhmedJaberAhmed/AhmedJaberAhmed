@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong style="font-size: 1.3em;">Mobile App Developer</strong> | <strong>Flutter & Android Specialist</strong> | <strong>Clean Code Advocate</strong><br/>
-  🎓 Pursuing B.Sc. in Computer Science & AI at MTI,  (2022–2026)<br/>
+  🎓 Pursuing B.Sc. in Computer Science & AI at MTI University,  (2022–2026)<br/>
   <a href="https://drive.google.com/file/d/1nAKURpyVgdSHFpoNgvoC1ELzEZwkH5xO/view?usp=sharing" target="_blank" rel="noopener">
     <strong style="color:#ff69b4; text-decoration: none;">📄 View My Resume</strong>
   </a>
