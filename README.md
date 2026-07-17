@@ -21,7 +21,7 @@
 
 ### 🎯 What I Do
 
-I'm a final-year Computer Science & AI student at MTI University, currently working as a **Flutter Coaching Instructor** for the Ministry of Communications & IT's Digital Egypt Pioneers Initiative (DEPI) — mentoring multiple trainee cohorts through Flutter, Bloc/Cubit, clean architecture, and Firebase.
+I'm a Computer Science & AI Graduated from MTI University, currently working as a **Flutter Coaching Instructor** for the Ministry of Communications & IT's Digital Egypt Pioneers Initiative (DEPI) — mentoring multiple trainee cohorts through Flutter, Bloc/Cubit, clean architecture, and Firebase.
 
 My focus is shipping mobile apps that don't just work in a demo — they hold up offline, sync reliably, and integrate real ML models where it matters.
 
