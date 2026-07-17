@@ -12,7 +12,7 @@
   <a href="https://g.dev/Ahmed_Jaber" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
   </a>
-  <a href="https://drive.google.com/file/d/1yDrYyUJySgyCBu9SOv4HjUHu8iQSKUbz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1nyLOX8kHKzUQ37jrEgLwfIUe4P-M-bJ0/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
   </a>
 </p>
