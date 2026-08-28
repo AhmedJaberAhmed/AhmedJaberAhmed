@@ -2,7 +2,7 @@
 <h3 align="center">Mobile App Developer — Flutter & Android Specialist</h3>
 
 <p align="center">
-  I build production-grade mobile apps — from offline-first architectures to AI-powered features — and coach the next generation of Flutter developers.
+  I build production-grade mobile apps — from offline-first architectures to AI-powered and real-time features — and coach the next generation of Flutter developers and freelancers.
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ### 🎯 What I Do
 
-I'm a Computer Science & AI Graduated from MTI University, currently working as a **Flutter Coaching Instructor** for the Ministry of Communications & IT's Digital Egypt Pioneers Initiative (DEPI) — mentoring multiple trainee cohorts through Flutter, Bloc/Cubit, clean architecture, and Firebase.
+I'm a Computer Science & AI graduate from MTI University, currently working as a **Flutter Coaching Instructor** for the Ministry of Communications & IT's Digital Egypt Pioneers Initiative (DEPI) — mentoring multiple trainee cohorts through Flutter, Bloc/Cubit, Clean Architecture, and Firebase — and as a **Freelancing Skills Trainer** with the NTI Summer Training Program, teaching client communication and professional freelancing practices. Alongside coaching, I freelance as a Flutter developer on Upwork and Mostaql.
 
-My focus is shipping mobile apps that don't just work in a demo — they hold up offline, sync reliably, and integrate real ML models where it matters.
+My focus is shipping mobile apps that don't just work in a demo — they hold up offline, sync reliably, handle real-time state, and integrate real ML models where it matters.
 
 ---
 
@@ -41,6 +41,12 @@ My focus is shipping mobile apps that don't just work in a demo — they hold up
 
 ---
 
+### ⚡ Also Building — Real-Time Voice & Video Calling
+
+A peer-to-peer voice & video calling system on **WebRTC + Supabase Realtime**, with live ICE candidate exchange and full call-state management (Ringing → Connecting → Connected → Ended). Handles anonymous auth, camera switching, mic mute, and speaker toggle — and solves ICE candidate race conditions via candidate buffering when candidates arrive before the call record exists in the database.
+
+---
+
 ### 💼 Selected Work
 
 | Project | What it does |
@@ -50,8 +56,10 @@ My focus is shipping mobile apps that don't just work in a demo — they hold up
 | **Clinic Appointment System** | Doctor scheduling + booking, same architecture family as Hotel Booking |
 | **AI Vision App** | Auto-generates product descriptions from photos for small business owners |
 | **E-Commerce + Admin Dashboard** | Stripe/PayPal checkout, cut checkout time by 35% |
+| **Social Media App** | Posts, likes, comments, profiles, storage, and realtime updates |
+| **Real-Time Chat** | Firestore-backed messaging with user discovery and theming |
 
-*More apps — social platform, real-time chat, food delivery, and utility apps — in the repos below.*
+*More apps — food delivery, offline task manager, expense tracker, compass, movie browser, and other utility apps — in the repos below.*
 
 ---
 
@@ -62,6 +70,7 @@ My focus is shipping mobile apps that don't just work in a demo — they hold up
 **Architecture** — Clean Architecture · MVVM · Repository Pattern
 **State Management** — Bloc · Cubit · Provider
 **Backend** — Supabase (Postgres/Realtime/RLS) · Firebase · Flask REST APIs
+**Real-Time** — WebRTC · Supabase Realtime · Postgres Changes · ICE Candidates
 **AI/ML** — YOLOv8 · FaceNet · TFLite · Linear Regression
 **Data** — SQLite · Isar · PostgreSQL
 
